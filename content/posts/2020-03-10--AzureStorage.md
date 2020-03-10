@@ -3,8 +3,8 @@ title: Using Azure Storage as a mobile backend
 date: "2020-03-10T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+slug: "/posts/azurestorageasabackend/"
+category: "Azure"
 tags:
   - "Azure"
   - "Development"
